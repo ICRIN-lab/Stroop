@@ -8,5 +8,5 @@ There are many variations on the basic effect using other stimuli than colored w
 
 It is easier to measure key presses than the time it takes to name a task; therefore, there are "manual" Stroop tasks in which you need to press colored keys.
 
-Source : Stroop, J.R. (1935). Studies of interference in serial verbal reactions. Journal of Experimental Psychology, 18, 643-662. <a href="http://www.yorku.ca/pclassic/Stroop/"> Test </a>
+Source : Stroop, J.R. (1935). Studies of interference in serial verbal reactions. Journal of Experimental Psychology, 18, 643-662. <a href="http://www.yorku.ca/pclassic/Stroop/"> Read here original article </a>
 
